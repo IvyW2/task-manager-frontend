@@ -2,8 +2,8 @@ import React, { createContext, useEffect, useState } from "react"
 
 // create the context object
 const UserContext = createContext()
-const API = 'http://127.0.0.1:9292'
-
+//const API = 'http://127.0.0.1:9292'
+const API = "https://task-manager-api-usfo.onrender.com"
 
 // create the context provider (component)
 function UserDataProvider({ children }) {
