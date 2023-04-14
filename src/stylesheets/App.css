@@ -1,5 +1,5 @@
 body{
-  background-color: #dad8dd;
+  background-color: #906dc0;
 }
 .App {
   text-align: center;
@@ -17,7 +17,7 @@ body{
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: white;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -28,7 +28,7 @@ body{
 }
 
 .App-link {
-  color: #61dafb;
+  color: #61da;
 }
 
 @keyframes App-logo-spin {
